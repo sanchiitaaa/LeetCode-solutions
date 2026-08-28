@@ -27,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0141-linked-list-cycle) |
+## Math
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0367-valid-perfect-square) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
