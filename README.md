@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0234-palindrome-linked-list) |
+| [1048-longest-string-chain](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/1048-longest-string-chain) |
 ## Stack
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0141-linked-list-cycle) |
+| [1048-longest-string-chain](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/1048-longest-string-chain) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -45,12 +47,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [1048-longest-string-chain](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/1048-longest-string-chain) |
 ## String
 |  |
 | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [1048-longest-string-chain](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/1048-longest-string-chain) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [1048-longest-string-chain](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/1048-longest-string-chain) |
+## Sorting
+|  |
+| ------- |
+| [1048-longest-string-chain](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/1048-longest-string-chain) |
 <!---LeetCode Topics End-->
