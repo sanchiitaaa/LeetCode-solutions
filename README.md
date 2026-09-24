@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [1048-longest-string-chain](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/1048-longest-string-chain) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## String
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1048-longest-string-chain](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/1048-longest-string-chain) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Sorting
 |  |
 | ------- |
