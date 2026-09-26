@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0018-4sum) |
 | [0141-linked-list-cycle](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0143-reorder-list) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0457-circular-array-loop](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0457-circular-array-loop) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0018-4sum) |
 | [1048-longest-string-chain](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/1048-longest-string-chain) |
 ## Divide and Conquer
 |  |
