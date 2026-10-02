@@ -1,6 +1,8 @@
+import java.util.*;
+
 class Solution {
     public int[][] merge(int[][] intervals) {
-        Arrays.sort(intervals, (a, b) -> a[0] - b[0]);
+        Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
 
         List<int[]> list = new ArrayList<>();
 
@@ -8,8 +10,9 @@ class Solution {
             if (list.isEmpty() || list.get(list.size() - 1)[1] < interval[0]) {
                 list.add(interval);
             } else {
-                list.get(list.size() - 1)[1] = 
-                    Math.max(list.get(list.size() - 1)[1], interval[1]);
+                list.get(list.size() - 1)[1] = Math.max(
+                    list.get(list.size() - 1)[1], interval[1]
+                );
             }
         }
 
