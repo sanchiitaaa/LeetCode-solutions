@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0056-merge-intervals) |
 | [0152-maximum-product-subarray](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0457-circular-array-loop](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0457-circular-array-loop) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0056-merge-intervals) |
 | [1048-longest-string-chain](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/1048-longest-string-chain) |
 ## Divide and Conquer
 |  |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0724-find-pivot-index) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
