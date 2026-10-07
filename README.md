@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0202-happy-number) |
 | [0457-circular-array-loop](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0457-circular-array-loop) |
+| [0560-subarray-sum-equals-k](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1048-longest-string-chain](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/1048-longest-string-chain) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0457-circular-array-loop](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0457-circular-array-loop) |
 | [0503-next-greater-element-ii](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0724-find-pivot-index) |
 ## Quicksort
 |  |
