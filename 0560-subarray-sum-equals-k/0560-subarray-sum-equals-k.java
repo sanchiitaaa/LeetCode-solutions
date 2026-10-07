@@ -13,7 +13,7 @@ class Solution {
                 int freq = map.get(ques);
                 res += freq;
             }
-            map.put(sum, map.getOrDefault(sum,0) + 1);
+            map.put(sum, map.getOrDefault(sum, 0) + 1);
         }
         return res;
     }
