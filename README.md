@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0503-next-greater-element-ii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1048-longest-string-chain](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/1048-longest-string-chain) |
 ## Dynamic Programming
 |  |
