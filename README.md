@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0202-happy-number) |
+| [0383-ransom-note](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0383-ransom-note) |
 | [0457-circular-array-loop](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0457-circular-array-loop) |
 | [0560-subarray-sum-equals-k](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0071-simplify-path) |
+| [0383-ransom-note](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0383-ransom-note) |
 | [0516-longest-palindromic-subsequence](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1048-longest-string-chain](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/1048-longest-string-chain) |
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0739-daily-temperatures) |
 | [2487-remove-nodes-from-linked-list](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
