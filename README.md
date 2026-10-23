@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1048-longest-string-chain](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/1048-longest-string-chain) |
+| [1189-maximum-number-of-balloons](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1048-longest-string-chain](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/1048-longest-string-chain) |
+| [1189-maximum-number-of-balloons](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Dynamic Programming
 |  |
@@ -153,4 +155,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0383-ransom-note) |
+| [1189-maximum-number-of-balloons](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
