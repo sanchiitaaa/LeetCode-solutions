@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0367-valid-perfect-square) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Newton's Method
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/1048-longest-string-chain) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## String
 |  |
 | ------- |
