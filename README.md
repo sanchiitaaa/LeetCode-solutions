@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0367-valid-perfect-square](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0367-valid-perfect-square) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Newton's Method
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0057-insert-interval) |
 | [0152-maximum-product-subarray](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0457-circular-array-loop](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0457-circular-array-loop) |
