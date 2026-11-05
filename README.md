@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0383-ransom-note) |
 | [0457-circular-array-loop](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0457-circular-array-loop) |
 | [0560-subarray-sum-equals-k](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0692-top-k-frequent-words](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1048-longest-string-chain](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/1048-longest-string-chain) |
 | [1189-maximum-number-of-balloons](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0692-top-k-frequent-words](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0739-daily-temperatures) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0071-simplify-path) |
 | [0383-ransom-note](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0383-ransom-note) |
 | [0516-longest-palindromic-subsequence](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [0692-top-k-frequent-words](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0844-backspace-string-compare](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1048-longest-string-chain](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/1048-longest-string-chain) |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0692-top-k-frequent-words) |
 | [1048-longest-string-chain](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/1048-longest-string-chain) |
 ## Divide and Conquer
 |  |
@@ -170,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0383-ransom-note) |
+| [0692-top-k-frequent-words](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Simulation
 |  |
@@ -180,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
@@ -189,4 +195,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0692-top-k-frequent-words) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
