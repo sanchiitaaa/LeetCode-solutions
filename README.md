@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0367-valid-perfect-square) |
+| [0973-k-closest-points-to-origin](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Search
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0739-daily-temperatures) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1048-longest-string-chain](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/1048-longest-string-chain) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0692-top-k-frequent-words) |
+| [0973-k-closest-points-to-origin](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1048-longest-string-chain](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/1048-longest-string-chain) |
 ## Divide and Conquer
 |  |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Queue
 |  |
 | ------- |
@@ -186,11 +190,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0692-top-k-frequent-words) |
+| [0973-k-closest-points-to-origin](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -200,4 +206,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0692-top-k-frequent-words) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
