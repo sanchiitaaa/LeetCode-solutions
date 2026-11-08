@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0383-ransom-note) |
 | [0457-circular-array-loop](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0457-circular-array-loop) |
 | [0560-subarray-sum-equals-k](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1048-longest-string-chain](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/1048-longest-string-chain) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0457-circular-array-loop) |
 | [0503-next-greater-element-ii](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0621-task-scheduler) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0724-find-pivot-index) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1048-longest-string-chain](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/1048-longest-string-chain) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0383-ransom-note) |
+| [0621-task-scheduler](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Simulation
@@ -189,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
@@ -214,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0973-k-closest-points-to-origin) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
