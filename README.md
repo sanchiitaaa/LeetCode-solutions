@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0457-circular-array-loop](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0457-circular-array-loop) |
 | [0844-backspace-string-compare](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0692-top-k-frequent-words) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0692-top-k-frequent-words) |
@@ -223,4 +226,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0621-task-scheduler) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
