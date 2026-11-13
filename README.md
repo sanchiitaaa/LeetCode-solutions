@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0071-simplify-path) |
+| [0131-palindrome-partitioning](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0383-ransom-note](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0383-ransom-note) |
 | [0516-longest-palindromic-subsequence](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0692-top-k-frequent-words) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0053-maximum-subarray) |
+| [0131-palindrome-partitioning](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0516-longest-palindromic-subsequence](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -239,4 +241,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0039-combination-sum) |
+| [0131-palindrome-partitioning](https://github.com/sanchiitaaa/LeetCode-solutions/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
